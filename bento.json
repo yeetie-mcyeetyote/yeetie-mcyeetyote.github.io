@@ -1,0 +1,33 @@
+{
+ "food":[
+   {
+     
+         "name":"soft shelled crab",
+         "price":32.67,
+         "kilo":2,
+         "sides":[
+           "mac salad",
+           "rice",
+           "ginger",
+           "caviar"
+           ]
+   
+   },
+   {
+     
+         "name":"meduim shell crab",
+         "price":9,
+         "kilo":0.25,
+         "sides":[
+           "tears",
+           "shame",
+           "rice"
+           
+           ]
+   
+   }
+        ]
+   
+
+
+}
